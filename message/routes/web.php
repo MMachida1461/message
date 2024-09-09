@@ -7,5 +7,6 @@ Route::get('/', function () {
 });
 
 Route::get('/getString', function(){
-    return view('result');
+    $result = '結果';
+    return view('result', ['result' => $result]);
 });

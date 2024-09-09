@@ -7,6 +7,6 @@
     <title>result</title>
 </head>
 <body>
-    <p>結果の表示</p>
+    <p>{{ $result }}の表示</p>
 </body>
 </html>

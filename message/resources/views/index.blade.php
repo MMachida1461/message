@@ -7,7 +7,7 @@
     <title>タイトル</title>
 </head>
 <body>
-    <form action="/getString">
+    <form action="/getString" method="get">
         <button type="submit">ボタン</button>
     </form>
 </body>
