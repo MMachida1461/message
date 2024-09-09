@@ -1,3 +1,5 @@
+# message
+
 Goal:1週間程度を目安にアプリを作成する
 
 設計
@@ -12,6 +14,6 @@ Goal:1週間程度を目安にアプリを作成する
 ・DB
     1.PKのidカラム、メッセージを保持するmessageカラムがあるテーブルが必要
 
-参考サイト
-環境構築
+
+参考にしたしたWebページ
 https://zenn.dev/hatopoppo0606/articles/e6511956d594b9
