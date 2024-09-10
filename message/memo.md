@@ -27,3 +27,4 @@ Goal:1週間程度を目安にアプリを作成する
 https://zenn.dev/hatopoppo0606/articles/e6511956d594b9
 ランダムな値の取得
 https://dev-lib.com/php-array-random/
+https://blog.capilano-fw.com/?p=665
