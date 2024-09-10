@@ -8,7 +8,7 @@
 </head>
 <body>
     <p>Requestから取得した値は</p>
-    <p style="font-size: 20px; font-weigh: bold;">{{ $result[0] }}</p>
+    <p style="font-size: 20px; font-weigh: bold;">{{ $result->message }}</p>
     <p>の表示</p>
 </body>
 </html>
